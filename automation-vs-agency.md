@@ -1,4 +1,4 @@
-## Automation vs Agency
+## Automation vs Agency by Qiuyue Qin
 
 Automation refers to the use of machines or algorithms to perform tasks automatically, without direct human control. Agency means the ability to act and make decisions that produce effects in the world. In new media theory, the debate between automation and agency asks who controls digital systems: humans, machines, or both.
 
@@ -9,6 +9,8 @@ However, agency is not limited to humans. Latour argues that agency is distribut
 Gillespie explains that algorithms are not neutral tools but powerful mediators that shape visibility and participation online.[^gillespie] For example, TikTok’s recommendation algorithm determines which videos become viral. While the system operates automatically, users still exercise agency by creating content, interacting with posts, and responding to trends.
 
 The tension between automation and agency is central to discussions about artificial intelligence, authorship, and algorithmic bias. Automation does not eliminate human agency, but it redistributes it within complex digital networks.
+
+<br>
 
 [^manovich]: Manovich, Lev. 2001. *The Language of New Media*. Cambridge, MA: MIT Press.
 
